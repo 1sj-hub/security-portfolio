@@ -136,5 +136,5 @@ Reviewed:
 
 ## Related Artifacts
 
-- [Redacted Findings Report](./artifacts/redacted-findings.md)
-- [Remediation Decision Log](./artifacts/remediation-log.md)
+- [Redacted Findings Report](./redacted-findings.md) — host vulnerability posture
+- [Remediation Decision Log](./remediation-log.md) — patch governance and residual risk acceptance
