@@ -30,7 +30,7 @@ Each stage is treated as a control boundary.
 
 ## Threat Model
 
-![AI Security Threat Model](./images/ai-security-threat-model.png)
+![AI Security Threat Model](../images/ai-security-threat.png)
 
 ### Trust Zones
 - **Ingress Controls** — untrusted user input entering the system
