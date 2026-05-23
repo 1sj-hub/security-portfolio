@@ -121,4 +121,3 @@ Steeve Joseph (AskObi sole operator and security owner)
 **Related Documents**
 
 - [Redacted Findings Report](./redacted-findings.md) — full scan results, initial and post-remediation
-- [Executive Assessment Summary](./vuln-assessment-summary.md) — non-technical summary
