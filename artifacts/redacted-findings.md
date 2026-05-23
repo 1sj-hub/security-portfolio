@@ -120,5 +120,4 @@ Plugin IDs, CVSS scores, EPSS values, and Ubuntu Security Notice (USN) reference
 
 **Related Documents**
 
-- [Remediation Decision Log](./remediation-log.md) — per-finding action record and residual risk acceptance
-- [Executive Assessment Summary](./vuln-assessment-summary.md) — non-technical summary
+- [Remediation Decision Log](./remediation-log.md) — per-finding action record and residual risk 
